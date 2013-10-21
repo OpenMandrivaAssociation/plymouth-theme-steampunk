@@ -10,6 +10,8 @@ License:	Creative Commons Attribution-ShareAlike
 Group:		System/Kernel and hardware
 Url:		http://kde-look.org/content/show.php?content=146030
 Source0:	http://sites.google.com/site/binaryinspiration/download/SPL_Plymouth.tar.gz
+Requires:	plymouth
+Requires(post,postun):	plymouth-scripts
 
 %description
 This package contains the "SteampunK Powered Linux" Plymouth theme.
