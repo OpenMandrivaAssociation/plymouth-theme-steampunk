@@ -5,7 +5,7 @@
 Summary:	"SteampunK Powered Linux" Plymouth theme
 Name:		plymouth-theme-steampunk
 Version:	3.0
-Release:	1
+Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		System/Kernel and hardware
 Url:		http://kde-look.org/content/show.php?content=146030
